@@ -1,10 +1,8 @@
-MDPL-Kel-5-Penyewaan-Mobil
-
-<hr><pre>
-5200411207 Firnawa Adhitama
-5200411225 Fina Nuraini
-5200411241 Alfianda Suci Wulansari
-5200411248 Thio Prasetyo</pre>
+# MDPL-Kel-5-Penyewaan-Mobil
+<li>5200411207 Firnawa Adhitama</li>
+<li>5200411225 Fina Nuraini </li>
+<li>5200411241 Alfianda Suci Wulansari </li>
+<li>5200411248 Thio Prasetiyo </li>
 
  <hr>
  RAD (RAPID APPLICATION DEVELOPMENT)
