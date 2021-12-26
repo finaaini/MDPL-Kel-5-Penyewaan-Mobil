@@ -12,3 +12,12 @@
  5200411241 Alfianda Suci Wulansari : Pendahuluan (Latar Belakang Sistem, Tujuan, Batasan Masalah)
  5200411248 Thio Prasetyo           : Pemodelan Data & Proses (Arsitektur Sistem, Use Case Diagram, Activity Diagram, Sequence Diagram, Class Diagram)
  </pre>
+ 
+<hr>
+Laporan SCRUM
+ <pre>
+ 5200411207 Firnawa Adhitama        : Delivery product
+ 5200411225 Fina Nuraini            : Judul, Daftar isi, User stories
+ 5200411241 Alfianda Suci Wulansari : Pembuatan product backlog
+ 5200411248 Thio Prasetyo           : Melakukan Sprint
+ </pre>
